@@ -5,11 +5,11 @@
 #include <stdio.h>
 int main()
 {
-	int numeroingresado;
+	int numingresado;
 	std::cout << " UN NUMERO ES DIVISIBLE PARA 5!\n";
 	printf("ingrese un numero entero:");
 	scanf_s("%d", &numeroingresado);
-	if (numeroingresado % 5 == 0)
+	if (numingresado % 5 == 0)
 		printf("El numero si es divisible para 5");
 	else {
 		printf("El numero no es divisible para 5");
