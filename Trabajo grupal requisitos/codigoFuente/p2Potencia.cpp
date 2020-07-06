@@ -6,11 +6,11 @@
 
 int main()
 {
-   int numeroingresado, resultado ;
+   int numingresado, resultado ;
    std::cout << "LA POTENCIA CUADRADA DE UN NUMERO!\n";
    printf("ingrese un numero entero:");
-   scanf_s("%d", &numeroingresado);
-   resultado =pow(numeroingresado, 2);
+   scanf_s("%d", &numingresado);
+   resultado =pow(numingresado, 2);
    printf("\nresultado= %d\n", resultado);
 }
 
