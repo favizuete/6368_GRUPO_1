@@ -5,7 +5,7 @@
 
 int main()
 {
-     n1, n2,suma;
+     int n1, n2,suma;
 
     printf( "\nIntroduzca primer numero: " );
     scanf( "%d", &n1 );
