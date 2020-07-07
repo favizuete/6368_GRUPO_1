@@ -12,5 +12,5 @@ int main()
     printf( "\nIntroduzca segundo numero: " );
     scanf( "%d", &n2 );
     suma = n1 + n2;
-    printf( "\nLa suma es: %2.2d", suma );
+    printf( "\nLa suma es: %d", suma );
     }
