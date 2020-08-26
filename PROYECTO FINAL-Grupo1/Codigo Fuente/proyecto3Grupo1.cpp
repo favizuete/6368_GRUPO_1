@@ -44,9 +44,10 @@ int main()
 			system("pause");
 			break;
 		case 0:
+			cout << "\nGracias,Regrese pronto al programa";		
 			break;
 		}
-
+	       
 	} while (opc != 0);
 }
 
