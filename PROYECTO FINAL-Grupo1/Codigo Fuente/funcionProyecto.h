@@ -14,6 +14,7 @@ int menu()
 {
 	int opc;
 	system("color D");
+	 cout<< "\n BIENVENIDOS: SISTEMA DE TRABAJADORES DE UNA EMPRESA DE CHICLES."<<endl;
 	cout << "\n*****MENU DE OPCIONES"**** << endl;
 	cout << "\n1. Ingresar datos del Empleado." << endl;
 	cout << "\n2. Mostrar datos de Empleados." << endl;
