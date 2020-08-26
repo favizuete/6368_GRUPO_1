@@ -47,7 +47,13 @@ int main()
 			cout << "\nGracias,Regrese pronto al programa";		
 			break;
 		}
-	       
+	        default:
+		{
+			printf("\n Escoja una opcion valida\n");
+		}
+		cout << "\n";
+		system("pause");
+		system("cls");
 	} while (opc != 0);
 }
 
