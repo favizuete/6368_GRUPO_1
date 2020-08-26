@@ -29,7 +29,7 @@ int main()
 					cout << "\nError. No se pudo reservar memoria.";
 				cout << "\nDesea ingresar los datos de otro empleado. 1-Si/0-No: ";
 				cin >> opc2;
-			} while (opc2 != 0);
+			} while (opc2== 1);	
 			break;
 		case 2: 
 			if(datos != NULL)
