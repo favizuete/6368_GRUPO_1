@@ -1,5 +1,9 @@
 // proyecto3Grupo1.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
-//
+//las buenas prácticas indican que deben adicionar lo siguente:
+// Nombre del Proyecto:
+// Integrantes:
+// Objetico de este código
+// coomentar las funciones o llamada que hacen
 
 #include <stdlib.h>
 #include "funcionProyecto.h"
