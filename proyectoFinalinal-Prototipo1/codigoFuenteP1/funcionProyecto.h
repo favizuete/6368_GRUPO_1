@@ -38,7 +38,7 @@ void leerDatos(Empleado* p)	 //funcion ingresar datos de los empleados
 	{
 		cout << "\nIngrese edad del empledado: ";
 		cin >> p->edad;
-	} while (p->edad < 0);
+	} while (p->edad <= 0||p->edad>150);
 	do
 	{
 		cout << "\nIngrese el sueldo mensual del empleado: ";
