@@ -43,7 +43,7 @@ void leerDatos(Empleado* p)	 //funcion ingresar datos de los empleados
 	{
 		cout << "\nIngrese el sueldo mensual del empleado: ";
 		cin >> p->sueldo;
-	} while (p->sueldo < 0);	
+	} while (p->sueldo <= 0);	
 }
 
 //Funcion para continuar (S/N)
