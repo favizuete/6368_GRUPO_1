@@ -2,7 +2,7 @@
 //las buenas prácticas indican que deben adicionar lo siguente:
 // Nombre del Proyecto:
 // Integrantes:
-// Objetico de este código
+// Objetivo de este código
 // coomentar las funciones o llamada que hacen
 
 #include <stdlib.h>
