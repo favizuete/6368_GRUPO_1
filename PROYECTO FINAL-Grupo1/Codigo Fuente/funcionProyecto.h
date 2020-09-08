@@ -63,7 +63,7 @@ int menu2()
 	cout << "\n1. Empleados en orden alfabetico" << endl;
 	cout << "\n2. Empleados segun el sueldo que ganan" << endl;
 	cout << "\n0. Salir del programa" << endl;
-	cout << "\tSeleccione una opcion: " << endl;
+	cout << "\tSeleccione una opcion: " <<  endl;
 	cin >> opc;
 	return opc;
 }
