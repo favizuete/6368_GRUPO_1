@@ -49,7 +49,7 @@ int main()
 			break;
 		case 0:
 			cout << "\nGracias,Regrese pronto al programa";		
-			break;
+			 break;
 		}
 	        default:
 		{
