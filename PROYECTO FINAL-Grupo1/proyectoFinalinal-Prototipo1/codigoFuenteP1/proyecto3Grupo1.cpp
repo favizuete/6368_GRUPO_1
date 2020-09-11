@@ -35,7 +35,7 @@ int main()
 					tam++;
 				}
 				else
-					cout << "\nError. No se pudo reservar memoria.";
+					cout << "\nError. No se pudo reservar memoria.";//<< endl;
 			} while (continuar(mensaje));
 			char mensaje1[] = "\nDesea grabar los datos en el archivo? S/N: ";
 			if(continuar(mensaje1))
