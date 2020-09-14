@@ -2,7 +2,6 @@
 #include <iostream>
 #include <stdlib.h>
 #include <string.h>
-#include <fstream>
 #include <math.h>
 #define N 55
 #define C 10
